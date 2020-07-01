@@ -10,4 +10,4 @@ Notas de correções:
 
 - Em "/frontend", vulnerabilidade reportada pelo Github, cfe https://github.com/faye/websocket-extensions-node/security/advisories/GHSA-g78m-2chm-r7qv ;
 
-- Em "/mobile", inserção do campo "Descrições", o qual ficou ausente no projeto original do curso.
+- Em "/mobile/src/pages/detail/index.js", inserção do campo "Descrições", o qual ficou ausente no projeto original do curso.
