@@ -12,7 +12,9 @@ que necessitam de cuidados urgentes, e pessoas interessadas em auxiliar financei
 
 # Notas de vulnerabilidades resolvidas
 
-- Em "/frontend" -> https://github.com/faye/websocket-extensions-node/security/advisories/GHSA-g78m-2chm-r7qv ;
+- Em "/frontend" 
+-> https://github.com/faye/websocket-extensions-node/security/advisories/GHSA-g78m-2chm-r7qv ;
 
-- Em "/mobile" -> https://nvd.nist.gov/vuln/detail/CVE-2020-8149;
-               -> https://www.whitesourcesoftware.com/vulnerability-database/WS-2018-0236
+- Em "/mobile" 
+-> https://nvd.nist.gov/vuln/detail/CVE-2020-8149;
+-> https://www.whitesourcesoftware.com/vulnerability-database/WS-2018-0236
